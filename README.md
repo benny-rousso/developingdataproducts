@@ -1,4 +1,4 @@
-# developingdataproducts
+# DevelopingDataProducts
 Course Project of Developing Data Products from Data Science Specialization
 
 This repo includes all the files for the final Course Project of the module
@@ -8,4 +8,8 @@ The project aim was to develop an interactive app using Shiny package. An
 app to predict and compare the mpg using multiple linear regressions was
 developped. Data from `mtcars` was used to develop and test regressions.
 
+In addition, a short presentation for reproducibility pitch was made using
+Rpresentation and pushed to Rpubs.
+
 Shiny app developped: https://bennyrousso.shinyapps.io/CourseProject-DevelopingDataProducts/?_ga=2.99110622.1905450531.1600823386-823367035.1600823386
+Rpresentation : https://rpubs.com/bennyrousso/664686
