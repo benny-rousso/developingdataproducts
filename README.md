@@ -11,5 +11,8 @@ developped. Data from `mtcars` was used to develop and test regressions.
 In addition, a short presentation for reproducibility pitch was made using
 Rpresentation and pushed to Rpubs.
 
+Links:
+
 Shiny app developped: https://bennyrousso.shinyapps.io/CourseProject-DevelopingDataProducts/?_ga=2.99110622.1905450531.1600823386-823367035.1600823386
+
 Rpresentation : https://rpubs.com/bennyrousso/664686
